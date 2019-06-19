@@ -1,6 +1,8 @@
 # Post list
 > React application created for fetching, listing, deleting and searching posts from [JSONPlaceholder] Fake Online REST API
 
+See a Demo on [POST-LIST].
+
 ## Table of contents
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
@@ -13,7 +15,7 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./src/img/Screenshot.JPG)
 
 ## Technologies
 * [React] - [version 16.8.6]
@@ -64,6 +66,7 @@ Created by [Vladimir Karatosic] - feel free to contact me!
 You can visit my [GitHub] page and see the rest of my projects.
 If you like it, give me the Star. Thanks!
 
+[POST-LIST]:(https://github.com/VladimirKaratosic/post-list)
 [Vladimir Karatosic]:(http://vladimirkaratosic.com)
 [GitHub]:(https://github.com/VladimirKaratosic)
 [React]:(https://reactjs.org/)
