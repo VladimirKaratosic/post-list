@@ -13,7 +13,10 @@ body {
   margin: 0;
   padding: 0;  
   background-repeat: repeat-y; 
-  background-position: left top;  
+  background-position: left top; 
+  background-attachment: fixed; 
+  position: relative;
+  padding-top: 14vh;
 }
 
 code {
@@ -24,6 +27,7 @@ code {
 .cover-image {
   position: fixed;
 }
+
 
 
 

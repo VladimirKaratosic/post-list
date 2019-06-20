@@ -57,11 +57,11 @@ export default class AddPost extends Component {
                 <form onSubmit={this.handleSubmit}>
                     <div className="row">              
                         <div className="input-field col s12 m10 offset-m1">
-                            <input id="title" type="text" className="validate" pattern="([A-Za-z]*\s*\d*)*" title="Only letters, digits and whitespaces" onChange={this.handleChange} value={this.state.post.title} required/>
+                            <input id="title" type="text" className="input-field validate cyan-text" pattern="([A-Za-z]*\s*\d*)*" title="Only letters, digits and whitespaces" onChange={this.handleChange} value={this.state.post.title} required/>
                             <label htmlFor="title">Add Post Title</label>
                         </div>
                         <div className="input-field col s12 m10 offset-m1">                            
-                            <input id="body" type="text" className="validate" pattern="([A-Za-z]*\s*\d*)*" title="Only letters, digits and whitespaces" onChange={this.handleChange} value={this.state.post.body} required/>
+                            <input id="body" type="text" className="input-field validate cyan-text" pattern="([A-Za-z]*\s*\d*)*" title="Only letters, digits and whitespaces" onChange={this.handleChange} value={this.state.post.body} required/>
                             <label htmlFor="body">Add Post Body</label>
                             <div className="row">
                                 <div className="input-field col s12">
