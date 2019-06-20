@@ -66,16 +66,16 @@ Created by [Vladimir Karatosic] - feel free to contact me!
 You can visit my [GitHub] page and see the rest of my projects.
 If you like it, give me the Star. Thanks!
 
-[POST-LIST]:(https://github.com/VladimirKaratosic/post-list)
-[Vladimir Karatosic]:(http://vladimirkaratosic.com)
-[GitHub]:(https://github.com/VladimirKaratosic)
-[React]:(https://reactjs.org/)
-[Axios]:(https://www.npmjs.com/package/axios)
-[JSONPlaceholder]:(https://jsonplaceholder.typicode.com/)
-[/posts]:(https://jsonplaceholder.typicode.com/posts)
-[version 16.8.6]:(https://github.com/facebook/react/blob/master/CHANGELOG.md#1680-february-6-2019)
-[version 0.19.0]:(https://www.npmjs.com/package/axios/v/0.19.0)
-[version 0.100.2]:(http://archives.materializecss.com/0.100.2/)
-[version 3.2.1]:(https://code.jquery.com/jquery-3.2.1.min.js)
-[unsplash.com]:(https://unsplash.com/)
-[loading.io]:(https://loading.io/spinner/)
+[POST-LIST]:https://github.com/VladimirKaratosic/post-list
+[Vladimir Karatosic]:http://vladimirkaratosic.com
+[GitHub]:https://github.com/VladimirKaratosic
+[React]:https://reactjs.org/
+[Axios]:https://www.npmjs.com/package/axios
+[JSONPlaceholder]:https://jsonplaceholder.typicode.com/
+[/posts]:https://jsonplaceholder.typicode.com/posts
+[version 16.8.6]:https://github.com/facebook/react/blob/master/CHANGELOG.md#1680-february-6-2019
+[version 0.19.0]:https://www.npmjs.com/package/axios/v/0.19.0
+[version 0.100.2]:http://archives.materializecss.com/0.100.2/
+[version 3.2.1]:https://code.jquery.com/jquery-3.2.1.min.js
+[unsplash.com]:https://unsplash.com/
+[loading.io]:https://loading.io/spinner/
