@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/post-list/static/css/main.5d4bcca5.chunk.css",
+    "main.css": "/post-list/static/css/main.d21f3129.chunk.css",
     "main.js": "/post-list/static/js/main.d93ea614.chunk.js",
     "main.js.map": "/post-list/static/js/main.d93ea614.chunk.js.map",
     "runtime~main.js": "/post-list/static/js/runtime~main.68ccdd48.js",
@@ -8,9 +8,9 @@
     "static/js/2.b08ecc10.chunk.js": "/post-list/static/js/2.b08ecc10.chunk.js",
     "static/js/2.b08ecc10.chunk.js.map": "/post-list/static/js/2.b08ecc10.chunk.js.map",
     "index.html": "/post-list/index.html",
-    "precache-manifest.2319d7ebb90258e0de58e8d4362df4ed.js": "/post-list/precache-manifest.2319d7ebb90258e0de58e8d4362df4ed.js",
+    "precache-manifest.e974892dc4403e8f9e0a63365d262089.js": "/post-list/precache-manifest.e974892dc4403e8f9e0a63365d262089.js",
     "service-worker.js": "/post-list/service-worker.js",
-    "static/css/main.5d4bcca5.chunk.css.map": "/post-list/static/css/main.5d4bcca5.chunk.css.map",
+    "static/css/main.d21f3129.chunk.css.map": "/post-list/static/css/main.d21f3129.chunk.css.map",
     "static/media/index.css": "/post-list/static/media/cover_photo.94430228.jpg",
     "static/media/gooey-ball-tail-spinner.gif": "/post-list/static/media/gooey-ball-tail-spinner.3e08fc76.gif"
   }
