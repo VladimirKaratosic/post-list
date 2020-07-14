@@ -57,16 +57,13 @@ which will open it on http://localhost:3000/.
 * Post searching
 * Loading spinner implementation for any service call on posts
 
-To-do list:
-* Application testing
-
 ## Contact
 Created by [Vladimir Karatosic] - feel free to contact me!
 
 You can visit my [GitHub] page and see the rest of my projects.
 If you like it, give me the Star. Thanks!
 
-[POST-LIST]:https://github.com/VladimirKaratosic/post-list
+[POST-LIST]:https://peaceful-everglades-34860.herokuapp.com/
 [Vladimir Karatosic]:http://vladimirkaratosic.com
 [GitHub]:https://github.com/VladimirKaratosic
 [React]:https://reactjs.org/
