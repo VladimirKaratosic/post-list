@@ -129,6 +129,14 @@ body {
   transition: 0.3s ease-in-out;
 }
 
+.collapsible-header:hover {
+  background: #fafafa;
+}
+
+.collapsible-header:hover h5 {
+  color: #00bcd4;
+}
+
 .collapsible-header:hover .delete {
   opacity: 0.6;
 }
@@ -141,6 +149,22 @@ body {
 
 .material-icons.delete:hover {
   opacity: 1;
+}
+
+.add_post_btn i {
+  transition: all ease-in-out 0.15s;
+  position: relative;
+  right: 0;
+}
+
+.add_post_btn:hover i {
+  right: -5px;
+} 
+
+.add_post_btn.cyan:hover {
+  background-color: white !important;
+  color: #00bcd4;
+  box-shadow: 0 0 2px 2px rgb(0 0 0 / 14%), 0 1px 7px 0 rgb(0 0 0 / 12%), 0 3px 1px -1px rgb(0 0 0 / 20%);
 }
 
 #autocomplete-input {

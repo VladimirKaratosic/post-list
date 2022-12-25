@@ -6,6 +6,8 @@
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.0.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.6",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -13,7 +15,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "jest --watch *.js",
+    "testing": "jest",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
